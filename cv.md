@@ -18,3 +18,13 @@ Lomonosov Moscow State University, department of Economics, Master’s degree in
 
 ## Qualifications
 September — December 2022; Programming in Java Script courses at the RS school
+
+## Special skills
+* Java Script;
+* HTML;
+* CSS;
+* Native Russian;
+* Working knowledge of English (A2-B1);
+* Driving License (Category B);
+* Computer literacy (Microsoft Office, Outlook Express);
+* Hobbies: foreign languages, box, reading;
