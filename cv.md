@@ -1,11 +1,11 @@
-# sergey kozhevnikov
-## personal information
-**address:** 1/6 Perevertkina Street, apt. 54, Voronezh, Russia\
-**phone number:**
+# Sergey kozhevnikov
+## Personal information
+**Address:** 1/6 Perevertkina Street, apt. 54, Voronezh, Russia\
+**Phone number:**
 *89204644448*;\
-**email:** SergeyKog01@gmail.com;\
-**discord:** [SergeyKSS#6531](SergeyKSS#6531);\
-**vk:** [https://vk.com/id72138868](https://vk.com/id72138868);\
+**Email:** SergeyKog01@gmail.com;\
+**Discord:** [SergeyKSS#6531](SergeyKSS#6531);\
+**Vk:** [https://vk.com/id72138868](https://vk.com/id72138868);\
 **Marital status:** married;\
 **Date of birth:**	21th April 1987;\
 **Nationality:**	Russian
