@@ -28,3 +28,13 @@ September — December 2022; Programming in Java Script courses at the RS school
 * Driving License (Category B);
 * Computer literacy (Microsoft Office, Outlook Express);
 * Hobbies: foreign languages, box, reading;
+
+## Work experience
+Company Name 1, 2012–present\
+Voronezh, Russia\
+Financial analyst
+* Preparing business plans;
+* Planning investment activities and budget;
+* Analyzing data sets collected through all the departments;
+* Preparing financial forecasts;
+* Preparing reports for the board of management.
