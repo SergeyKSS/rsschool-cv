@@ -38,3 +38,9 @@ Financial analyst
 * Analyzing data sets collected through all the departments;
 * Preparing financial forecasts;
 * Preparing reports for the board of management.
+
+## Personal qualities
+* Dependable;
+* Determined;
+* Initiative;
+* Versatile.
